@@ -58,6 +58,14 @@ To analyze e-commerce sales data in order to:
 
 ---
 
+### 🛠️ Tools & Technologies
+- **Power BI**
+- **Microsoft Excel**
+- Data Cleaning & Data Modeling
+- Interactive Visualizations
+
+---
+
 ### 🖼 Dashboard Previews
 
 #### 🔹 Dashboard View 1
