@@ -61,7 +61,7 @@ To analyze e-commerce sales data in order to:
 ### 🖼 Dashboard Previews
 
 #### 🔹 Dashboard View 1
-![Dashboard Screenshot 1](e-commerce_sales_dashboard_screenshot1.png)
+![Dashboard Screenshot 1](Power_BI_Dashboards/e-commerce-sales/e-commerce_sales-dashboard_screenshot1.png)
 
 #### 🔹 Dashboard View 2
 ![Dashboard Screenshot 2](e-commerce_sales_dashboard_screenshot2.png)
