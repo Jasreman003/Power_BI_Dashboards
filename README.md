@@ -51,4 +51,6 @@ through interactive and visually appealing dashboards.
 ---
 
 ## 📬 Contact
-Feel free to explore the repository and connect with me on LinkedIn.
+Feel free to explore the repository and connect with me on:
+- **LinkedIn:** https://www.linkedin.com/in/jasreman-kaur-818568298 
+- **Email:** kaurjasreman35@gmail.com
